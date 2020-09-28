@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Ceratosaurus" size="0.210000 0.297133" />
+    <ImageTarget name="Brachiasaurus" size="0.210000 0.297133" />
+    <ImageTarget name="Cover" size="0.210000 0.296971" />
+    <ImageTarget name="Parasaurolophus" size="0.210000 0.296971" />
+    <ImageTarget name="Pterodactyl" size="0.210000 0.296971" />
+    <ImageTarget name="Spinosaurus" size="0.210000 0.296971" />
+    <ImageTarget name="Triceratops" size="0.210000 0.296971" />
+    <ImageTarget name="TRex" size="0.210000 0.296971" />
+  </Tracking>
+</QCARConfig>

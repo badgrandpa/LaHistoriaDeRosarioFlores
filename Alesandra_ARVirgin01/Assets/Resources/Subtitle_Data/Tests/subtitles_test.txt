@@ -1,0 +1,3 @@
+0.000| Hello, this is a test!
+1.560| We are testing the subtitles now!
+3.789| <color=red>Stay tuned for more subtitle testing!</color>

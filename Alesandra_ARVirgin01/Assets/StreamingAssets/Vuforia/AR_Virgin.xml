@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="corazonImageTarget" size="0.220000 0.184571" />
+    <ImageTarget name="Mouth" size="0.120000 0.073663" />
+    <ImageTarget name="Osa" size="0.270000 0.303550" />
+    <ImageTarget name="Jaguar" size="0.270000 0.359165" />
+    <ImageTarget name="Delfin" size="0.270000 0.405298" />
+    <ImageTarget name="Caballo" size="0.270000 0.387931" />
+    <ImageTarget name="Boa" size="0.270000 0.367134" />
+    <ImageTarget name="gallito_blue" size="0.270000 0.290178" />
+    <ImageTarget name="gallito_green" size="0.270000 0.290178" />
+    <ImageTarget name="gallito_pink" size="0.270000 0.290178" />
+    <ImageTarget name="gallito_yellow" size="0.270000 0.290178" />
+    <ImageTarget name="gallito_orange" size="0.270000 0.290178" />
+    <ImageTarget name="Mercedes" size="0.270000 0.369553" />
+    <ImageTarget name="MariJesus" size="0.270000 0.319412" />
+    <ImageTarget name="Clorinda" size="0.270000 0.416653" />
+    <ImageTarget name="Eyvi" size="0.400000 0.400000" />
+    <ImageTarget name="picaflor_05" size="0.270000 0.270000" />
+    <ImageTarget name="picaflor_02" size="0.270000 0.270000" />
+    <ImageTarget name="picaflor_03" size="0.270000 0.270000" />
+    <ImageTarget name="picaflor_04" size="0.270000 0.270000" />
+    <ImageTarget name="Picaflor_01" size="0.270000 0.270000" />
+    <ImageTarget name="TV02_pink" size="0.270000 0.270000" />
+    <ImageTarget name="TV02_grey" size="0.270000 0.270000" />
+    <ImageTarget name="TV01_orange" size="0.270000 0.270000" />
+    <ImageTarget name="TV01_grey" size="0.270000 0.270000" />
+  </Tracking>
+</QCARConfig>
